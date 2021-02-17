@@ -1,0 +1,19 @@
+DEPARTMENT OF COMPUTER APPLICATIONS
+20MCA131 PROGRAMMING LAB
+
+CYCLE 2.2
+
+NO OF QUESTIONS: 5
+EXPECTED DATE OF COMPLETION: 11/02/2021
+
+QUESTIONS:
+
+1. Add ‘ing’ at the end of a given string. If it already ends with ‘ing’, then add ‘ly’
+2. Accept a list of words and return length of longest word.
+3. Construct following pattern using nested loop
+4. Generate all factors of a number.
+5. Write lambda functions to find area of square, rectangle and triangle.
+Expected learning level:
+*The basic concepts of loops and control statements.
+* The concept of list comprehensions and Strings.
+* The concept of functions.
