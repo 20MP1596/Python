@@ -1,0 +1,20 @@
+DEPARTMENT OF COMPUTER APPLICATIONS
+20MCA131 PROGRAMMING LAB
+
+CYCLE 2.1
+
+NO OF QUESTIONS: 6
+EXPECTED DATE OF COMPLETION: 11/02/2021
+
+QUESTIONS:
+
+1. Program to find the factorial of a number
+2. Generate Fibonacci series of N terms
+3. Find the sum of all items in a list
+4. Generate a list of four digit numbers in a given range with all their digits even and the number
+is a perfect square.
+5. Display the given pyramid with step number accepted from user. Eg: N=4 1 2 4 3 6 9 4 8 12 16
+6. Count the number of characters (character frequency) in a string.
+Expected learning level:
+*The basic concepts of loops and control statements.
+* The concept of list comprehensions and Strings.
